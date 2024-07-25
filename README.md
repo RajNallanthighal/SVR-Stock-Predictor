@@ -1,6 +1,6 @@
 # SVR-Stock-Predictor
 
-**[See the model for yourself!] (doc:https://rajnallanthighal.pythonanywhere.com/)**
+[See the model for yourself!] (doc:https://rajnallanthighal.pythonanywhere.com/)
 
 Support Vector Regressor (SVR) built from scratch (only with numpy) to predict the tomorrow (next valid trading day) closing price of a specific stock. Currently fitted and tested to the S&P500, implemented with epsilon-insensitive loss function and linear kernel.
 
