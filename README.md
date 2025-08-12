@@ -1,6 +1,6 @@
 # SVR-Stock-Predictor
 
-<img width="1041" height="973" alt="Screenshot 2025-08-11 at 7 43 21 PM" src="https://github.com/user-attachments/assets/cb734f87-52bc-4b4d-a8a6-e78f0a3726eb" />
+<img width="832" height="778" alt="Screenshot 2025-08-11 at 7 43 21 PM" src="https://github.com/user-attachments/assets/cb734f87-52bc-4b4d-a8a6-e78f0a3726eb" />
 
 Support Vector Regressor (SVR) built from scratch (only with numpy) to predict the tomorrow (or next valid trading day) closing price of a specific stock. Currently fitted and tested to the S&P500, implemented with epsilon-insensitive loss function and linear kernel.
 
